@@ -38,7 +38,7 @@ I love experimenting with new ideas and turning them into working applications.
 * 🧠 Advanced React patterns  
 * ⚙️ Database architecture  
 * 🤖 Artificial Intelligence & Python  
-* 📱 Preparing to explore React Native  
+* 📱 Preparing to explore Flutter  
 
 ---
 
